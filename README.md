@@ -1,7 +1,7 @@
 # NLP
 
 ### Introduction
-This project aim to build a spell-checking system which can detect non-words and real words errors, then suggest correct word choice specifically in the computer science field. 
+This project aim to build a spell-checking system which can detect non-words and real words errors, then suggest correct word choice specifically in the computer science domain. 
 objectives:
 1. To build a spell-checker which can detect non-word error using minimum edit distance technique.
 2. To build a spell-checker which can detect real words errors using  bigram technique. 
