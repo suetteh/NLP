@@ -1,4 +1,4 @@
-# NLP
+# NLP (Group Project)
 
 ### Introduction
 This project aim to build a spell-checking system which can detect non-words and real words errors, then suggest correct word choice specifically in the computer science domain. 
